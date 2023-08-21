@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm no0nee, a college student, discovering multiple skills in IT Industry</div>  
   
 
